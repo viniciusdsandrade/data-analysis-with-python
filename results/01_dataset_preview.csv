@@ -1,0 +1,241 @@
+Ano,Mês,Produto,Canal,Regiões,Unidades_Vendidas,Preço_Unitário,Receita,Sazonalidade,Faixa Etária 25 a 40 anos,Faixa Etária 30 a 45 anos,Faixa Etária 30+ anos,Faixa Etária 35+ anos,Loja,Funcionario,AnoMes
+2020,1,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Norte,562,5200.0,2922400.0,,169,197,112,84,Loja B,Bruna,2020-01-01
+2020,1,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Nordeste,339,6750.0,2288250.0,,102,119,68,51,Loja B,Lucas,2020-01-01
+2020,1,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,555,2300.0,1276500.0,,167,194,111,83,Loja B,Lucas,2020-01-01
+2020,1,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sudeste,528,9500.0,5016000.0,,158,185,106,79,Loja C,Jéssica,2020-01-01
+2020,2,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Sul,457,5200.0,2376400.0,,137,160,91,69,Loja C,Isabela,2020-02-01
+2020,2,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Norte,117,6750.0,789750.0,,35,41,23,18,Loja A,Rafael,2020-02-01
+2020,2,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Nordeste,412,2300.0,947600.0,,124,144,82,62,Loja C,Isabela,2020-02-01
+2020,2,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Centro-Oeste,418,9500.0,3971000.0,,125,146,84,63,Loja C,Jéssica,2020-02-01
+2020,3,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Sudeste,621,5200.0,3229200.0,,186,217,124,93,Loja C,Paulo,2020-03-01
+2020,3,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sul,344,6750.0,2322000.0,,103,120,69,52,Loja C,Jéssica,2020-03-01
+2020,3,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Norte,864,2300.0,1987200.0,,259,302,173,130,Loja A,Rafael,2020-03-01
+2020,3,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Nordeste,628,9500.0,5966000.0,,188,220,126,94,Loja C,Jéssica,2020-03-01
+2020,4,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Centro-Oeste,271,5200.0,1409200.0,,81,95,54,41,Loja B,Bruna,2020-04-01
+2020,4,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sudeste,466,6750.0,3145500.0,,140,163,93,70,Loja B,Lucas,2020-04-01
+2020,4,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sul,325,2300.0,747500.0,,98,114,65,49,Loja C,Paulo,2020-04-01
+2020,4,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Norte,878,9500.0,8341000.0,,263,307,176,132,Loja C,Jéssica,2020-04-01
+2020,5,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Nordeste,204,5200.0,1060800.0,,61,71,41,31,Loja B,Lucas,2020-05-01
+2020,5,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Centro-Oeste,516,6750.0,3483000.0,,155,181,103,77,Loja B,Marina,2020-05-01
+2020,5,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sudeste,461,2300.0,1060300.0,,138,161,92,69,Loja A,Carlos,2020-05-01
+2020,5,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sul,153,9500.0,1453500.0,,46,54,31,23,Loja B,Marina,2020-05-01
+2020,6,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Norte,686,5200.0,3567200.0,,206,240,137,103,Loja B,Marina,2020-06-01
+2020,6,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Nordeste,351,6750.0,2369250.0,,105,123,70,53,Loja C,Jéssica,2020-06-01
+2020,6,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Centro-Oeste,230,2300.0,529000.0,,69,81,46,35,Loja B,Bruna,2020-06-01
+2020,6,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sudeste,733,9500.0,6963500.0,,220,257,147,110,Loja A,Fernanda,2020-06-01
+2020,7,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Sul,931,5200.0,4841200.0,,279,326,186,140,Loja B,Lucas,2020-07-01
+2020,7,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Norte,224,6750.0,1512000.0,,67,78,45,34,Loja C,Isabela,2020-07-01
+2020,7,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Nordeste,767,2300.0,1764100.0,,230,268,153,115,Loja C,Paulo,2020-07-01
+2020,7,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Centro-Oeste,587,9500.0,5576500.0,,176,205,117,88,Loja B,Marina,2020-07-01
+2020,8,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sudeste,611,5200.0,3177200.0,,183,214,122,92,Loja C,Jéssica,2020-08-01
+2020,8,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sul,462,6750.0,3118500.0,,139,162,92,69,Loja A,Carlos,2020-08-01
+2020,8,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Norte,222,2300.0,510600.0,,67,78,44,33,Loja A,Carlos,2020-08-01
+2020,8,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Nordeste,640,9500.0,6080000.0,,192,224,128,96,Loja B,Marina,2020-08-01
+2020,9,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Centro-Oeste,127,5200.0,660400.0,,38,44,25,19,Loja B,Lucas,2020-09-01
+2020,9,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sudeste,690,6750.0,4657500.0,,207,242,138,104,Loja B,Lucas,2020-09-01
+2020,9,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sul,192,2300.0,441600.0,,58,67,38,29,Loja C,Jéssica,2020-09-01
+2020,9,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Norte,710,9500.0,6745000.0,,213,249,142,107,Loja A,Carlos,2020-09-01
+2020,10,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Nordeste,874,5200.0,4544800.0,,262,306,175,131,Loja A,Carlos,2020-10-01
+2020,10,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Centro-Oeste,331,6750.0,2234250.0,,99,116,66,50,Loja C,Jéssica,2020-10-01
+2020,10,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sudeste,157,2300.0,361100.0,,47,55,31,24,Loja A,Carlos,2020-10-01
+2020,10,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sul,455,9500.0,4322500.0,,137,159,91,68,Loja B,Marina,2020-10-01
+2020,11,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Norte,710,5200.0,3692000.0,Black Friday,213,249,142,107,Loja B,Lucas,2020-11-01
+2020,11,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Nordeste,256,6750.0,1728000.0,Black Friday,77,90,51,38,Loja B,Bruna,2020-11-01
+2020,11,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,323,2300.0,742900.0,Black Friday,97,113,65,48,Loja A,Rafael,2020-11-01
+2020,11,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sudeste,667,9500.0,6336500.0,Black Friday,200,233,133,100,Loja B,Bruna,2020-11-01
+2020,12,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Sul,287,5200.0,1492400.0,,86,100,57,43,Loja C,Jéssica,2020-12-01
+2020,12,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Norte,762,6750.0,5143500.0,,229,267,152,114,Loja C,Isabela,2020-12-01
+2020,12,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Nordeste,366,2300.0,841800.0,,110,128,73,55,Loja A,Fernanda,2020-12-01
+2020,12,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Centro-Oeste,610,9500.0,5795000.0,,183,214,122,92,Loja C,Paulo,2020-12-01
+2021,1,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sudeste,670,5200.0,3484000.0,,201,235,134,101,Loja C,Paulo,2021-01-01
+2021,1,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sul,225,6750.0,1518750.0,,68,79,45,34,Loja A,Carlos,2021-01-01
+2021,1,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Norte,703,2300.0,1616900.0,,211,246,141,105,Loja B,Marina,2021-01-01
+2021,1,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Nordeste,771,9500.0,7324500.0,,231,270,154,116,Loja B,Lucas,2021-01-01
+2021,2,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Centro-Oeste,577,5200.0,3000400.0,,173,202,115,87,Loja B,Bruna,2021-02-01
+2021,2,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sudeste,919,6750.0,6203250.0,,276,322,184,138,Loja A,Fernanda,2021-02-01
+2021,2,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sul,227,2300.0,522100.0,,68,79,45,34,Loja C,Paulo,2021-02-01
+2021,2,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Norte,824,9500.0,7828000.0,,247,288,165,124,Loja B,Lucas,2021-02-01
+2021,3,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Nordeste,339,5200.0,1762800.0,,102,119,68,51,Loja B,Bruna,2021-03-01
+2021,3,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Centro-Oeste,105,6750.0,708750.0,,32,37,21,16,Loja A,Rafael,2021-03-01
+2021,3,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sudeste,811,2300.0,1865300.0,,243,284,162,122,Loja B,Lucas,2021-03-01
+2021,3,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sul,620,9500.0,5890000.0,,186,217,124,93,Loja A,Fernanda,2021-03-01
+2021,4,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Norte,899,5200.0,4674800.0,,270,315,180,135,Loja C,Isabela,2021-04-01
+2021,4,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Nordeste,380,6750.0,2565000.0,,114,133,76,57,Loja A,Carlos,2021-04-01
+2021,4,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Centro-Oeste,931,2300.0,2141300.0,,279,326,186,140,Loja A,Fernanda,2021-04-01
+2021,4,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sudeste,692,9500.0,6574000.0,,208,242,138,104,Loja A,Fernanda,2021-04-01
+2021,5,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sul,790,5200.0,4108000.0,,237,277,158,119,Loja A,Fernanda,2021-05-01
+2021,5,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Norte,118,6750.0,796500.0,,35,41,24,18,Loja C,Jéssica,2021-05-01
+2021,5,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Nordeste,601,2300.0,1382300.0,,180,210,120,90,Loja C,Jéssica,2021-05-01
+2021,5,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Centro-Oeste,792,9500.0,7524000.0,,238,277,158,119,Loja B,Marina,2021-05-01
+2021,6,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sudeste,870,5200.0,4524000.0,,261,305,174,131,Loja C,Paulo,2021-06-01
+2021,6,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sul,320,6750.0,2160000.0,,96,112,64,48,Loja C,Jéssica,2021-06-01
+2021,6,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Norte,844,2300.0,1941200.0,,253,295,169,127,Loja B,Bruna,2021-06-01
+2021,6,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Nordeste,243,9500.0,2308500.0,,73,85,49,36,Loja C,Jéssica,2021-06-01
+2021,7,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Centro-Oeste,563,5200.0,2927600.0,,169,197,113,84,Loja A,Fernanda,2021-07-01
+2021,7,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sudeste,188,6750.0,1269000.0,,56,66,38,28,Loja A,Fernanda,2021-07-01
+2021,7,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sul,946,2300.0,2175800.0,,284,331,189,142,Loja B,Bruna,2021-07-01
+2021,7,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Norte,636,9500.0,6042000.0,,191,223,127,95,Loja B,Lucas,2021-07-01
+2021,8,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Nordeste,370,5200.0,1924000.0,,111,130,74,56,Loja B,Lucas,2021-08-01
+2021,8,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Centro-Oeste,205,6750.0,1383750.0,,62,72,41,31,Loja A,Carlos,2021-08-01
+2021,8,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sudeste,790,2300.0,1817000.0,,237,277,158,119,Loja C,Jéssica,2021-08-01
+2021,8,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sul,748,9500.0,7106000.0,,224,262,150,112,Loja A,Rafael,2021-08-01
+2021,9,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Norte,472,5200.0,2454400.0,,142,165,94,71,Loja B,Lucas,2021-09-01
+2021,9,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Nordeste,834,6750.0,5629500.0,,250,292,167,125,Loja C,Jéssica,2021-09-01
+2021,9,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Centro-Oeste,703,2300.0,1616900.0,,211,246,141,105,Loja C,Paulo,2021-09-01
+2021,9,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sudeste,965,9500.0,9167500.0,,290,338,193,145,Loja A,Carlos,2021-09-01
+2021,10,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Sul,830,5200.0,4316000.0,,249,291,166,125,Loja B,Marina,2021-10-01
+2021,10,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Norte,817,6750.0,5514750.0,,245,286,163,123,Loja A,Rafael,2021-10-01
+2021,10,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Nordeste,111,2300.0,255300.0,,33,39,22,17,Loja C,Jéssica,2021-10-01
+2021,10,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Centro-Oeste,338,9500.0,3211000.0,,101,118,68,51,Loja A,Rafael,2021-10-01
+2021,11,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sudeste,127,5200.0,660400.0,,38,44,25,19,Loja A,Rafael,2021-11-01
+2021,11,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sul,696,6750.0,4698000.0,,209,244,139,104,Loja B,Bruna,2021-11-01
+2021,11,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Norte,856,2300.0,1968800.0,,257,300,171,128,Loja B,Marina,2021-11-01
+2021,11,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Nordeste,612,9500.0,5814000.0,,184,214,122,92,Loja C,Isabela,2021-11-01
+2021,12,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Centro-Oeste,247,5200.0,1284400.0,Natal,74,86,49,37,Loja A,Carlos,2021-12-01
+2021,12,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sudeste,502,6750.0,3388500.0,Natal,151,176,100,75,Loja A,Rafael,2021-12-01
+2021,12,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sul,566,2300.0,1301800.0,Natal,170,198,113,85,Loja A,Carlos,2021-12-01
+2021,12,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Norte,473,9500.0,4493500.0,Natal,142,166,95,71,Loja C,Jéssica,2021-12-01
+2022,1,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Nordeste,225,5200.0,1170000.0,Volta às aulas,68,79,45,34,Loja C,Jéssica,2022-01-01
+2022,1,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,644,6750.0,4347000.0,Volta às aulas,193,225,129,97,Loja B,Marina,2022-01-01
+2022,1,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sudeste,230,2300.0,529000.0,Volta às aulas,69,81,46,35,Loja B,Bruna,2022-01-01
+2022,1,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sul,835,9500.0,7932500.0,Volta às aulas,251,292,167,125,Loja B,Lucas,2022-01-01
+2022,2,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Norte,290,5200.0,1508000.0,,87,102,58,44,Loja A,Rafael,2022-02-01
+2022,2,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Nordeste,810,6750.0,5467500.0,,243,284,162,122,Loja A,Fernanda,2022-02-01
+2022,2,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,512,2300.0,1177600.0,,154,179,102,77,Loja B,Lucas,2022-02-01
+2022,2,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sudeste,349,9500.0,3315500.0,,105,122,70,52,Loja A,Rafael,2022-02-01
+2022,3,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sul,471,5200.0,2449200.0,,141,165,94,71,Loja B,Marina,2022-03-01
+2022,3,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Norte,227,6750.0,1532250.0,,68,79,45,34,Loja C,Isabela,2022-03-01
+2022,3,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Nordeste,744,2300.0,1711200.0,,223,260,149,112,Loja B,Marina,2022-03-01
+2022,3,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Centro-Oeste,782,9500.0,7429000.0,,235,274,156,117,Loja C,Isabela,2022-03-01
+2022,4,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sudeste,840,5200.0,4368000.0,,252,294,168,126,Loja A,Rafael,2022-04-01
+2022,4,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sul,911,6750.0,6149250.0,,273,319,182,137,Loja B,Bruna,2022-04-01
+2022,4,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Norte,893,2300.0,2053900.0,,268,313,179,134,Loja A,Fernanda,2022-04-01
+2022,4,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Nordeste,229,9500.0,2175500.0,,69,80,46,34,Loja C,Jéssica,2022-04-01
+2022,5,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Centro-Oeste,309,5200.0,1606800.0,,93,108,62,46,Loja C,Isabela,2022-05-01
+2022,5,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sudeste,418,6750.0,2821500.0,,125,146,84,63,Loja C,Jéssica,2022-05-01
+2022,5,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sul,857,2300.0,1971100.0,,257,300,171,129,Loja A,Carlos,2022-05-01
+2022,5,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Norte,890,9500.0,8455000.0,,267,312,178,134,Loja A,Rafael,2022-05-01
+2022,6,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Nordeste,916,5200.0,4763200.0,,275,321,183,137,Loja A,Carlos,2022-06-01
+2022,6,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Centro-Oeste,464,6750.0,3132000.0,,139,162,93,70,Loja A,Rafael,2022-06-01
+2022,6,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sudeste,477,2300.0,1097100.0,,143,167,95,72,Loja C,Paulo,2022-06-01
+2022,6,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sul,865,9500.0,8217500.0,,260,303,173,130,Loja C,Jéssica,2022-06-01
+2022,7,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Norte,326,5200.0,1695200.0,,98,114,65,49,Loja B,Marina,2022-07-01
+2022,7,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Nordeste,489,6750.0,3300750.0,,147,171,98,73,Loja B,Lucas,2022-07-01
+2022,7,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,113,2300.0,259900.0,,34,40,23,17,Loja A,Fernanda,2022-07-01
+2022,7,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sudeste,685,9500.0,6507500.0,,206,240,137,103,Loja C,Paulo,2022-07-01
+2022,8,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sul,974,5200.0,5064800.0,,292,341,195,146,Loja C,Jéssica,2022-08-01
+2022,8,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Norte,111,6750.0,749250.0,,33,39,22,17,Loja C,Paulo,2022-08-01
+2022,8,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Nordeste,999,2300.0,2297700.0,,300,350,200,150,Loja B,Bruna,2022-08-01
+2022,8,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Centro-Oeste,986,9500.0,9367000.0,,296,345,197,148,Loja B,Lucas,2022-08-01
+2022,9,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sudeste,444,5200.0,2308800.0,,133,155,89,67,Loja C,Jéssica,2022-09-01
+2022,9,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sul,102,6750.0,688500.0,,31,36,20,15,Loja C,Isabela,2022-09-01
+2022,9,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Norte,353,2300.0,811900.0,,106,124,71,53,Loja C,Jéssica,2022-09-01
+2022,9,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Nordeste,890,9500.0,8455000.0,,267,312,178,134,Loja B,Bruna,2022-09-01
+2022,10,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Centro-Oeste,689,5200.0,3582800.0,,207,241,138,103,Loja C,Jéssica,2022-10-01
+2022,10,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sudeste,224,6750.0,1512000.0,,67,78,45,34,Loja C,Paulo,2022-10-01
+2022,10,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sul,278,2300.0,639400.0,,83,97,56,42,Loja A,Carlos,2022-10-01
+2022,10,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Norte,794,9500.0,7543000.0,,238,278,159,119,Loja A,Fernanda,2022-10-01
+2022,11,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Nordeste,347,5200.0,1804400.0,,104,121,69,52,Loja B,Lucas,2022-11-01
+2022,11,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,899,6750.0,6068250.0,,270,315,180,135,Loja C,Paulo,2022-11-01
+2022,11,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sudeste,189,2300.0,434700.0,,57,66,38,28,Loja C,Isabela,2022-11-01
+2022,11,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sul,946,9500.0,8987000.0,,284,331,189,142,Loja A,Carlos,2022-11-01
+2022,12,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Norte,467,5200.0,2428400.0,,140,163,93,70,Loja B,Bruna,2022-12-01
+2022,12,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Nordeste,694,6750.0,4684500.0,,208,243,139,104,Loja A,Fernanda,2022-12-01
+2022,12,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,783,2300.0,1800900.0,,235,274,157,117,Loja A,Fernanda,2022-12-01
+2022,12,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sudeste,650,9500.0,6175000.0,,195,228,130,98,Loja A,Carlos,2022-12-01
+2023,1,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sul,291,5200.0,1513200.0,,87,102,58,44,Loja A,Fernanda,2023-01-01
+2023,1,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Norte,567,6750.0,3827250.0,,170,198,113,85,Loja C,Isabela,2023-01-01
+2023,1,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Nordeste,220,2300.0,506000.0,,66,77,44,33,Loja C,Jéssica,2023-01-01
+2023,1,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Centro-Oeste,184,9500.0,1748000.0,,55,64,37,28,Loja A,Fernanda,2023-01-01
+2023,2,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sudeste,156,5200.0,811200.0,,47,55,31,23,Loja B,Bruna,2023-02-01
+2023,2,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sul,427,6750.0,2882250.0,,128,149,85,64,Loja B,Marina,2023-02-01
+2023,2,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Norte,363,2300.0,834900.0,,109,127,73,54,Loja B,Lucas,2023-02-01
+2023,2,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Nordeste,866,9500.0,8227000.0,,260,303,173,130,Loja B,Bruna,2023-02-01
+2023,3,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Centro-Oeste,704,5200.0,3660800.0,,211,246,141,106,Loja A,Carlos,2023-03-01
+2023,3,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sudeste,929,6750.0,6270750.0,,279,325,186,139,Loja C,Isabela,2023-03-01
+2023,3,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sul,397,2300.0,913100.0,,119,139,79,60,Loja B,Marina,2023-03-01
+2023,3,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Norte,440,9500.0,4180000.0,,132,154,88,66,Loja A,Fernanda,2023-03-01
+2023,4,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Nordeste,646,5200.0,3359200.0,,194,226,129,97,Loja B,Marina,2023-04-01
+2023,4,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Centro-Oeste,379,6750.0,2558250.0,,114,133,76,57,Loja B,Marina,2023-04-01
+2023,4,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sudeste,826,2300.0,1899800.0,,248,289,165,124,Loja A,Rafael,2023-04-01
+2023,4,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sul,620,9500.0,5890000.0,,186,217,124,93,Loja C,Paulo,2023-04-01
+2023,5,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Norte,176,5200.0,915200.0,,53,62,35,26,Loja C,Isabela,2023-05-01
+2023,5,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Nordeste,713,6750.0,4812750.0,,214,250,143,107,Loja A,Fernanda,2023-05-01
+2023,5,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,736,2300.0,1692800.0,,221,258,147,110,Loja C,Jéssica,2023-05-01
+2023,5,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sudeste,788,9500.0,7486000.0,,236,276,158,118,Loja A,Fernanda,2023-05-01
+2023,6,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Sul,240,5200.0,1248000.0,,72,84,48,36,Loja A,Fernanda,2023-06-01
+2023,6,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Norte,897,6750.0,6054750.0,,269,314,179,135,Loja A,Fernanda,2023-06-01
+2023,6,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Nordeste,861,2300.0,1980300.0,,258,301,172,129,Loja C,Paulo,2023-06-01
+2023,6,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Centro-Oeste,562,9500.0,5339000.0,,169,197,112,84,Loja A,Carlos,2023-06-01
+2023,7,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Sudeste,611,5200.0,3177200.0,,183,214,122,92,Loja B,Lucas,2023-07-01
+2023,7,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sul,957,6750.0,6459750.0,,287,335,191,144,Loja C,Jéssica,2023-07-01
+2023,7,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Norte,534,2300.0,1228200.0,,160,187,107,80,Loja C,Paulo,2023-07-01
+2023,7,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Nordeste,538,9500.0,5111000.0,,161,188,108,81,Loja C,Jéssica,2023-07-01
+2023,8,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Centro-Oeste,791,5200.0,4113200.0,,237,277,158,119,Loja C,Isabela,2023-08-01
+2023,8,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sudeste,542,6750.0,3658500.0,,163,190,108,81,Loja B,Lucas,2023-08-01
+2023,8,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sul,315,2300.0,724500.0,,95,110,63,47,Loja C,Paulo,2023-08-01
+2023,8,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Norte,188,9500.0,1786000.0,,56,66,38,28,Loja C,Isabela,2023-08-01
+2023,9,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Nordeste,107,5200.0,556400.0,,32,37,21,16,Loja A,Carlos,2023-09-01
+2023,9,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,867,6750.0,5852250.0,,260,303,173,130,Loja C,Isabela,2023-09-01
+2023,9,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sudeste,512,2300.0,1177600.0,,154,179,102,77,Loja B,Lucas,2023-09-01
+2023,9,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sul,610,9500.0,5795000.0,,183,214,122,92,Loja B,Marina,2023-09-01
+2023,10,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Norte,278,5200.0,1445600.0,,83,97,56,42,Loja B,Marina,2023-10-01
+2023,10,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Nordeste,130,6750.0,877500.0,,39,46,26,20,Loja B,Marina,2023-10-01
+2023,10,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Centro-Oeste,259,2300.0,595700.0,,78,91,52,39,Loja C,Isabela,2023-10-01
+2023,10,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sudeste,942,9500.0,8949000.0,,283,330,188,141,Loja C,Isabela,2023-10-01
+2023,11,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sul,497,5200.0,2584400.0,Black Friday,149,174,99,75,Loja B,Bruna,2023-11-01
+2023,11,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Norte,110,6750.0,742500.0,Black Friday,33,39,22,17,Loja B,Marina,2023-11-01
+2023,11,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Nordeste,235,2300.0,540500.0,Black Friday,71,82,47,35,Loja C,Isabela,2023-11-01
+2023,11,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Centro-Oeste,893,9500.0,8483500.0,Black Friday,268,313,179,134,Loja B,Lucas,2023-11-01
+2023,12,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sudeste,369,5200.0,1918800.0,,111,129,74,55,Loja A,Carlos,2023-12-01
+2023,12,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sul,396,6750.0,2673000.0,,119,139,79,59,Loja B,Bruna,2023-12-01
+2023,12,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Norte,581,2300.0,1336300.0,,174,203,116,87,Loja B,Marina,2023-12-01
+2023,12,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Nordeste,909,9500.0,8635500.0,,273,318,182,136,Loja A,Rafael,2023-12-01
+2024,1,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Centro-Oeste,106,5200.0,551200.0,,32,37,21,16,Loja A,Fernanda,2024-01-01
+2024,1,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sudeste,900,6750.0,6075000.0,,270,315,180,135,Loja C,Jéssica,2024-01-01
+2024,1,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sul,898,2300.0,2065400.0,,269,314,180,135,Loja C,Isabela,2024-01-01
+2024,1,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Norte,528,9500.0,5016000.0,,158,185,106,79,Loja A,Carlos,2024-01-01
+2024,2,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Nordeste,567,5200.0,2948400.0,,170,198,113,85,Loja A,Carlos,2024-02-01
+2024,2,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Centro-Oeste,652,6750.0,4401000.0,,196,228,130,98,Loja C,Paulo,2024-02-01
+2024,2,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sudeste,996,2300.0,2290800.0,,299,349,199,149,Loja B,Bruna,2024-02-01
+2024,2,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sul,824,9500.0,7828000.0,,247,288,165,124,Loja A,Fernanda,2024-02-01
+2024,3,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Norte,903,5200.0,4695600.0,,271,316,181,135,Loja C,Paulo,2024-03-01
+2024,3,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Nordeste,136,6750.0,918000.0,,41,48,27,20,Loja B,Marina,2024-03-01
+2024,3,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,671,2300.0,1543300.0,,201,235,134,101,Loja A,Fernanda,2024-03-01
+2024,3,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sudeste,261,9500.0,2479500.0,,78,91,52,39,Loja B,Marina,2024-03-01
+2024,4,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sul,737,5200.0,3832400.0,Aniversário da loja,221,258,147,111,Loja C,Isabela,2024-04-01
+2024,4,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Norte,188,6750.0,1269000.0,Aniversário da loja,56,66,38,28,Loja A,Fernanda,2024-04-01
+2024,4,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Nordeste,873,2300.0,2007900.0,Aniversário da loja,262,306,175,131,Loja B,Lucas,2024-04-01
+2024,4,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Centro-Oeste,595,9500.0,5652500.0,Aniversário da loja,179,208,119,89,Loja A,Fernanda,2024-04-01
+2024,5,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Sudeste,884,5200.0,4596800.0,,265,309,177,133,Loja B,Lucas,2024-05-01
+2024,5,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Sul,978,6750.0,6601500.0,,293,342,196,147,Loja C,Jéssica,2024-05-01
+2024,5,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Norte,419,2300.0,963700.0,,126,147,84,63,Loja C,Paulo,2024-05-01
+2024,5,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Nordeste,622,9500.0,5909000.0,,187,218,124,93,Loja A,Rafael,2024-05-01
+2024,6,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Centro-Oeste,727,5200.0,3780400.0,,218,254,145,109,Loja B,Marina,2024-06-01
+2024,6,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sudeste,362,6750.0,2443500.0,,109,127,72,54,Loja A,Rafael,2024-06-01
+2024,6,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sul,996,2300.0,2290800.0,,299,349,199,149,Loja A,Fernanda,2024-06-01
+2024,6,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Norte,492,9500.0,4674000.0,,148,172,98,74,Loja B,Marina,2024-06-01
+2024,7,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Nordeste,485,5200.0,2522000.0,,146,170,97,73,Loja B,Marina,2024-07-01
+2024,7,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,582,6750.0,3928500.0,,175,204,116,87,Loja B,Bruna,2024-07-01
+2024,7,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Sudeste,885,2300.0,2035500.0,,266,310,177,133,Loja C,Jéssica,2024-07-01
+2024,7,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Sul,967,9500.0,9186500.0,,290,338,193,145,Loja A,Carlos,2024-07-01
+2024,8,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Norte,921,5200.0,4789200.0,,276,322,184,138,Loja A,Rafael,2024-08-01
+2024,8,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Nordeste,598,6750.0,4036500.0,,179,209,120,90,Loja C,Jéssica,2024-08-01
+2024,8,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,568,2300.0,1306400.0,,170,199,114,85,Loja B,Bruna,2024-08-01
+2024,8,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sudeste,166,9500.0,1577000.0,,50,58,33,25,Loja C,Isabela,2024-08-01
+2024,9,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sul,177,5200.0,920400.0,,53,62,35,27,Loja C,Isabela,2024-09-01
+2024,9,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Norte,745,6750.0,5028750.0,,224,261,149,112,Loja C,Jéssica,2024-09-01
+2024,9,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Marketplace,Nordeste,575,2300.0,1322500.0,,173,201,115,86,Loja A,Rafael,2024-09-01
+2024,9,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Centro-Oeste,539,9500.0,5120500.0,,162,189,108,81,Loja C,Isabela,2024-09-01
+2024,10,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Site,Sudeste,450,5200.0,2340000.0,,135,158,90,68,Loja A,Fernanda,2024-10-01
+2024,10,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sul,820,6750.0,5535000.0,,246,287,164,123,Loja A,Carlos,2024-10-01
+2024,10,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Norte,289,2300.0,664700.0,,87,101,58,43,Loja A,Carlos,2024-10-01
+2024,10,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Nordeste,884,9500.0,8398000.0,,265,309,177,133,Loja B,Lucas,2024-10-01
+2024,11,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Centro-Oeste,310,5200.0,1612000.0,,93,109,62,47,Loja A,Rafael,2024-11-01
+2024,11,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Site,Sudeste,894,6750.0,6034500.0,,268,313,179,134,Loja A,Rafael,2024-11-01
+2024,11,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sul,449,2300.0,1032700.0,,135,157,90,67,Loja B,Bruna,2024-11-01
+2024,11,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Marketplace,Norte,812,9500.0,7714000.0,,244,284,162,122,Loja A,Rafael,2024-11-01
+2024,12,"EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)",Marketplace,Nordeste,356,5200.0,1851200.0,,107,125,71,53,Loja C,Paulo,2024-12-01
+2024,12,"EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)",Marketplace,Centro-Oeste,959,6750.0,6473250.0,,288,336,192,144,Loja C,Isabela,2024-12-01
+2024,12,"EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)",Site,Sudeste,540,2300.0,1242000.0,,162,189,108,81,Loja A,Rafael,2024-12-01
+2024,12,"EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)",Site,Sul,354,9500.0,3363000.0,,106,124,71,53,Loja B,Marina,2024-12-01

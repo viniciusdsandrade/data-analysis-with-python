@@ -1,0 +1,241 @@
+Ano	Mês	Produto	Canal	Regiões	Unidades_Vendidas	Preço_Unitário	Receita	Sazonalidade	Faixa Etária 25 a 40 anos	Faixa Etária 30 a 45 anos	Faixa Etária 30+ anos	Faixa Etária 35+ anos	Loja	Funcionario
+2020	1	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Norte	562	  5.200,00 	  2.922.400,00 		169	197	112	84	Loja B	Bruna
+2020	1	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Nordeste	339	  6.750,00 	  2.288.250,00 		102	119	68	51	Loja B	Lucas
+2020	1	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	555	  2.300,00 	  1.276.500,00 		167	194	111	83	Loja B	Lucas
+2020	1	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sudeste	528	  9.500,00 	  5.016.000,00 		158	185	106	79	Loja C	Jéssica
+2020	2	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Sul	457	  5.200,00 	  2.376.400,00 		137	160	91	69	Loja C	Isabela
+2020	2	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Norte	117	  6.750,00 	  789.750,00 		35	41	23	18	Loja A	Rafael
+2020	2	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Nordeste	412	  2.300,00 	  947.600,00 		124	144	82	62	Loja C	Isabela
+2020	2	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Centro-Oeste	418	  9.500,00 	  3.971.000,00 		125	146	84	63	Loja C	Jéssica
+2020	3	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Sudeste	621	  5.200,00 	  3.229.200,00 		186	217	124	93	Loja C	Paulo
+2020	3	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sul	344	  6.750,00 	  2.322.000,00 		103	120	69	52	Loja C	Jéssica
+2020	3	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Norte	864	  2.300,00 	  1.987.200,00 		259	302	173	130	Loja A	Rafael
+2020	3	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Nordeste	628	  9.500,00 	  5.966.000,00 		188	220	126	94	Loja C	Jéssica
+2020	4	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Centro-Oeste	271	  5.200,00 	  1.409.200,00 		81	95	54	41	Loja B	Bruna
+2020	4	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sudeste	466	  6.750,00 	  3.145.500,00 		140	163	93	70	Loja B	Lucas
+2020	4	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sul	325	  2.300,00 	  747.500,00 		98	114	65	49	Loja C	Paulo
+2020	4	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Norte	878	  9.500,00 	  8.341.000,00 		263	307	176	132	Loja C	Jéssica
+2020	5	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Nordeste	204	  5.200,00 	  1.060.800,00 		61	71	41	31	Loja B	Lucas
+2020	5	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Centro-Oeste	516	  6.750,00 	  3.483.000,00 		155	181	103	77	Loja B	Marina
+2020	5	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sudeste	461	  2.300,00 	  1.060.300,00 		138	161	92	69	Loja A	Carlos
+2020	5	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sul	153	  9.500,00 	  1.453.500,00 		46	54	31	23	Loja B	Marina
+2020	6	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Norte	686	  5.200,00 	  3.567.200,00 		206	240	137	103	Loja B	Marina
+2020	6	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Nordeste	351	  6.750,00 	  2.369.250,00 		105	123	70	53	Loja C	Jéssica
+2020	6	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Centro-Oeste	230	  2.300,00 	  529.000,00 		69	81	46	35	Loja B	Bruna
+2020	6	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sudeste	733	  9.500,00 	  6.963.500,00 		220	257	147	110	Loja A	Fernanda
+2020	7	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Sul	931	  5.200,00 	  4.841.200,00 		279	326	186	140	Loja B	Lucas
+2020	7	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Norte	224	  6.750,00 	  1.512.000,00 		67	78	45	34	Loja C	Isabela
+2020	7	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Nordeste	767	  2.300,00 	  1.764.100,00 		230	268	153	115	Loja C	Paulo
+2020	7	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Centro-Oeste	587	  9.500,00 	  5.576.500,00 		176	205	117	88	Loja B	Marina
+2020	8	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sudeste	611	  5.200,00 	  3.177.200,00 		183	214	122	92	Loja C	Jéssica
+2020	8	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sul	462	  6.750,00 	  3.118.500,00 		139	162	92	69	Loja A	Carlos
+2020	8	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Norte	222	  2.300,00 	  510.600,00 		67	78	44	33	Loja A	Carlos
+2020	8	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Nordeste	640	  9.500,00 	  6.080.000,00 		192	224	128	96	Loja B	Marina
+2020	9	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Centro-Oeste	127	  5.200,00 	  660.400,00 		38	44	25	19	Loja B	Lucas
+2020	9	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sudeste	690	  6.750,00 	  4.657.500,00 		207	242	138	104	Loja B	Lucas
+2020	9	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sul	192	  2.300,00 	  441.600,00 		58	67	38	29	Loja C	Jéssica
+2020	9	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Norte	710	  9.500,00 	  6.745.000,00 		213	249	142	107	Loja A	Carlos
+2020	10	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Nordeste	874	  5.200,00 	  4.544.800,00 		262	306	175	131	Loja A	Carlos
+2020	10	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Centro-Oeste	331	  6.750,00 	  2.234.250,00 		99	116	66	50	Loja C	Jéssica
+2020	10	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sudeste	157	  2.300,00 	  361.100,00 		47	55	31	24	Loja A	Carlos
+2020	10	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sul	455	  9.500,00 	  4.322.500,00 		137	159	91	68	Loja B	Marina
+2020	11	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Norte	710	  5.200,00 	  3.692.000,00 	Black Friday	213	249	142	107	Loja B	Lucas
+2020	11	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Nordeste	256	  6.750,00 	  1.728.000,00 	Black Friday	77	90	51	38	Loja B	Bruna
+2020	11	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	323	  2.300,00 	  742.900,00 	Black Friday	97	113	65	48	Loja A	Rafael
+2020	11	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sudeste	667	  9.500,00 	  6.336.500,00 	Black Friday	200	233	133	100	Loja B	Bruna
+2020	12	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Sul	287	  5.200,00 	  1.492.400,00 		86	100	57	43	Loja C	Jéssica
+2020	12	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Norte	762	  6.750,00 	  5.143.500,00 		229	267	152	114	Loja C	Isabela
+2020	12	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Nordeste	366	  2.300,00 	  841.800,00 		110	128	73	55	Loja A	Fernanda
+2020	12	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Centro-Oeste	610	  9.500,00 	  5.795.000,00 		183	214	122	92	Loja C	Paulo
+2021	1	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sudeste	670	  5.200,00 	  3.484.000,00 		201	235	134	101	Loja C	Paulo
+2021	1	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sul	225	  6.750,00 	  1.518.750,00 		68	79	45	34	Loja A	Carlos
+2021	1	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Norte	703	  2.300,00 	  1.616.900,00 		211	246	141	105	Loja B	Marina
+2021	1	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Nordeste	771	  9.500,00 	  7.324.500,00 		231	270	154	116	Loja B	Lucas
+2021	2	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Centro-Oeste	577	  5.200,00 	  3.000.400,00 		173	202	115	87	Loja B	Bruna
+2021	2	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sudeste	919	  6.750,00 	  6.203.250,00 		276	322	184	138	Loja A	Fernanda
+2021	2	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sul	227	  2.300,00 	  522.100,00 		68	79	45	34	Loja C	Paulo
+2021	2	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Norte	824	  9.500,00 	  7.828.000,00 		247	288	165	124	Loja B	Lucas
+2021	3	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Nordeste	339	  5.200,00 	  1.762.800,00 		102	119	68	51	Loja B	Bruna
+2021	3	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Centro-Oeste	105	  6.750,00 	  708.750,00 		32	37	21	16	Loja A	Rafael
+2021	3	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sudeste	811	  2.300,00 	  1.865.300,00 		243	284	162	122	Loja B	Lucas
+2021	3	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sul	620	  9.500,00 	  5.890.000,00 		186	217	124	93	Loja A	Fernanda
+2021	4	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Norte	899	  5.200,00 	  4.674.800,00 		270	315	180	135	Loja C	Isabela
+2021	4	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Nordeste	380	  6.750,00 	  2.565.000,00 		114	133	76	57	Loja A	Carlos
+2021	4	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Centro-Oeste	931	  2.300,00 	  2.141.300,00 		279	326	186	140	Loja A	Fernanda
+2021	4	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sudeste	692	  9.500,00 	  6.574.000,00 		208	242	138	104	Loja A	Fernanda
+2021	5	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sul	790	  5.200,00 	  4.108.000,00 		237	277	158	119	Loja A	Fernanda
+2021	5	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Norte	118	  6.750,00 	  796.500,00 		35	41	24	18	Loja C	Jéssica
+2021	5	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Nordeste	601	  2.300,00 	  1.382.300,00 		180	210	120	90	Loja C	Jéssica
+2021	5	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Centro-Oeste	792	  9.500,00 	  7.524.000,00 		238	277	158	119	Loja B	Marina
+2021	6	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sudeste	870	  5.200,00 	  4.524.000,00 		261	305	174	131	Loja C	Paulo
+2021	6	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sul	320	  6.750,00 	  2.160.000,00 		96	112	64	48	Loja C	Jéssica
+2021	6	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Norte	844	  2.300,00 	  1.941.200,00 		253	295	169	127	Loja B	Bruna
+2021	6	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Nordeste	243	  9.500,00 	  2.308.500,00 		73	85	49	36	Loja C	Jéssica
+2021	7	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Centro-Oeste	563	  5.200,00 	  2.927.600,00 		169	197	113	84	Loja A	Fernanda
+2021	7	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sudeste	188	  6.750,00 	  1.269.000,00 		56	66	38	28	Loja A	Fernanda
+2021	7	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sul	946	  2.300,00 	  2.175.800,00 		284	331	189	142	Loja B	Bruna
+2021	7	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Norte	636	  9.500,00 	  6.042.000,00 		191	223	127	95	Loja B	Lucas
+2021	8	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Nordeste	370	  5.200,00 	  1.924.000,00 		111	130	74	56	Loja B	Lucas
+2021	8	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Centro-Oeste	205	  6.750,00 	  1.383.750,00 		62	72	41	31	Loja A	Carlos
+2021	8	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sudeste	790	  2.300,00 	  1.817.000,00 		237	277	158	119	Loja C	Jéssica
+2021	8	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sul	748	  9.500,00 	  7.106.000,00 		224	262	150	112	Loja A	Rafael
+2021	9	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Norte	472	  5.200,00 	  2.454.400,00 		142	165	94	71	Loja B	Lucas
+2021	9	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Nordeste	834	  6.750,00 	  5.629.500,00 		250	292	167	125	Loja C	Jéssica
+2021	9	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Centro-Oeste	703	  2.300,00 	  1.616.900,00 		211	246	141	105	Loja C	Paulo
+2021	9	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sudeste	965	  9.500,00 	  9.167.500,00 		290	338	193	145	Loja A	Carlos
+2021	10	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Sul	830	  5.200,00 	  4.316.000,00 		249	291	166	125	Loja B	Marina
+2021	10	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Norte	817	  6.750,00 	  5.514.750,00 		245	286	163	123	Loja A	Rafael
+2021	10	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Nordeste	111	  2.300,00 	  255.300,00 		33	39	22	17	Loja C	Jéssica
+2021	10	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Centro-Oeste	338	  9.500,00 	  3.211.000,00 		101	118	68	51	Loja A	Rafael
+2021	11	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sudeste	127	  5.200,00 	  660.400,00 		38	44	25	19	Loja A	Rafael
+2021	11	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sul	696	  6.750,00 	  4.698.000,00 		209	244	139	104	Loja B	Bruna
+2021	11	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Norte	856	  2.300,00 	  1.968.800,00 		257	300	171	128	Loja B	Marina
+2021	11	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Nordeste	612	  9.500,00 	  5.814.000,00 		184	214	122	92	Loja C	Isabela
+2021	12	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Centro-Oeste	247	  5.200,00 	  1.284.400,00 	Natal	74	86	49	37	Loja A	Carlos
+2021	12	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sudeste	502	  6.750,00 	  3.388.500,00 	Natal	151	176	100	75	Loja A	Rafael
+2021	12	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sul	566	  2.300,00 	  1.301.800,00 	Natal	170	198	113	85	Loja A	Carlos
+2021	12	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Norte	473	  9.500,00 	  4.493.500,00 	Natal	142	166	95	71	Loja C	Jéssica
+2022	1	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Nordeste	225	  5.200,00 	  1.170.000,00 	Volta às aulas	68	79	45	34	Loja C	Jéssica
+2022	1	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	644	  6.750,00 	  4.347.000,00 	Volta às aulas	193	225	129	97	Loja B	Marina
+2022	1	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sudeste	230	  2.300,00 	  529.000,00 	Volta às aulas	69	81	46	35	Loja B	Bruna
+2022	1	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sul	835	  9.500,00 	  7.932.500,00 	Volta às aulas	251	292	167	125	Loja B	Lucas
+2022	2	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Norte	290	  5.200,00 	  1.508.000,00 		87	102	58	44	Loja A	Rafael
+2022	2	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Nordeste	810	  6.750,00 	  5.467.500,00 		243	284	162	122	Loja A	Fernanda
+2022	2	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	512	  2.300,00 	  1.177.600,00 		154	179	102	77	Loja B	Lucas
+2022	2	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sudeste	349	  9.500,00 	  3.315.500,00 		105	122	70	52	Loja A	Rafael
+2022	3	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sul	471	  5.200,00 	  2.449.200,00 		141	165	94	71	Loja B	Marina
+2022	3	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Norte	227	  6.750,00 	  1.532.250,00 		68	79	45	34	Loja C	Isabela
+2022	3	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Nordeste	744	  2.300,00 	  1.711.200,00 		223	260	149	112	Loja B	Marina
+2022	3	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Centro-Oeste	782	  9.500,00 	  7.429.000,00 		235	274	156	117	Loja C	Isabela
+2022	4	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sudeste	840	  5.200,00 	  4.368.000,00 		252	294	168	126	Loja A	Rafael
+2022	4	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sul	911	  6.750,00 	  6.149.250,00 		273	319	182	137	Loja B	Bruna
+2022	4	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Norte	893	  2.300,00 	  2.053.900,00 		268	313	179	134	Loja A	Fernanda
+2022	4	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Nordeste	229	  9.500,00 	  2.175.500,00 		69	80	46	34	Loja C	Jéssica
+2022	5	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Centro-Oeste	309	  5.200,00 	  1.606.800,00 		93	108	62	46	Loja C	Isabela
+2022	5	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sudeste	418	  6.750,00 	  2.821.500,00 		125	146	84	63	Loja C	Jéssica
+2022	5	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sul	857	  2.300,00 	  1.971.100,00 		257	300	171	129	Loja A	Carlos
+2022	5	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Norte	890	  9.500,00 	  8.455.000,00 		267	312	178	134	Loja A	Rafael
+2022	6	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Nordeste	916	  5.200,00 	  4.763.200,00 		275	321	183	137	Loja A	Carlos
+2022	6	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Centro-Oeste	464	  6.750,00 	  3.132.000,00 		139	162	93	70	Loja A	Rafael
+2022	6	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sudeste	477	  2.300,00 	  1.097.100,00 		143	167	95	72	Loja C	Paulo
+2022	6	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sul	865	  9.500,00 	  8.217.500,00 		260	303	173	130	Loja C	Jéssica
+2022	7	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Norte	326	  5.200,00 	  1.695.200,00 		98	114	65	49	Loja B	Marina
+2022	7	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Nordeste	489	  6.750,00 	  3.300.750,00 		147	171	98	73	Loja B	Lucas
+2022	7	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	113	  2.300,00 	  259.900,00 		34	40	23	17	Loja A	Fernanda
+2022	7	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sudeste	685	  9.500,00 	  6.507.500,00 		206	240	137	103	Loja C	Paulo
+2022	8	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sul	974	  5.200,00 	  5.064.800,00 		292	341	195	146	Loja C	Jéssica
+2022	8	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Norte	111	  6.750,00 	  749.250,00 		33	39	22	17	Loja C	Paulo
+2022	8	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Nordeste	999	  2.300,00 	  2.297.700,00 		300	350	200	150	Loja B	Bruna
+2022	8	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Centro-Oeste	986	  9.500,00 	  9.367.000,00 		296	345	197	148	Loja B	Lucas
+2022	9	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sudeste	444	  5.200,00 	  2.308.800,00 		133	155	89	67	Loja C	Jéssica
+2022	9	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sul	102	  6.750,00 	  688.500,00 		31	36	20	15	Loja C	Isabela
+2022	9	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Norte	353	  2.300,00 	  811.900,00 		106	124	71	53	Loja C	Jéssica
+2022	9	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Nordeste	890	  9.500,00 	  8.455.000,00 		267	312	178	134	Loja B	Bruna
+2022	10	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Centro-Oeste	689	  5.200,00 	  3.582.800,00 		207	241	138	103	Loja C	Jéssica
+2022	10	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sudeste	224	  6.750,00 	  1.512.000,00 		67	78	45	34	Loja C	Paulo
+2022	10	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sul	278	  2.300,00 	  639.400,00 		83	97	56	42	Loja A	Carlos
+2022	10	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Norte	794	  9.500,00 	  7.543.000,00 		238	278	159	119	Loja A	Fernanda
+2022	11	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Nordeste	347	  5.200,00 	  1.804.400,00 		104	121	69	52	Loja B	Lucas
+2022	11	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	899	  6.750,00 	  6.068.250,00 		270	315	180	135	Loja C	Paulo
+2022	11	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sudeste	189	  2.300,00 	  434.700,00 		57	66	38	28	Loja C	Isabela
+2022	11	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sul	946	  9.500,00 	  8.987.000,00 		284	331	189	142	Loja A	Carlos
+2022	12	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Norte	467	  5.200,00 	  2.428.400,00 		140	163	93	70	Loja B	Bruna
+2022	12	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Nordeste	694	  6.750,00 	  4.684.500,00 		208	243	139	104	Loja A	Fernanda
+2022	12	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	783	  2.300,00 	  1.800.900,00 		235	274	157	117	Loja A	Fernanda
+2022	12	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sudeste	650	  9.500,00 	  6.175.000,00 		195	228	130	98	Loja A	Carlos
+2023	1	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sul	291	  5.200,00 	  1.513.200,00 		87	102	58	44	Loja A	Fernanda
+2023	1	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Norte	567	  6.750,00 	  3.827.250,00 		170	198	113	85	Loja C	Isabela
+2023	1	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Nordeste	220	  2.300,00 	  506.000,00 		66	77	44	33	Loja C	Jéssica
+2023	1	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Centro-Oeste	184	  9.500,00 	  1.748.000,00 		55	64	37	28	Loja A	Fernanda
+2023	2	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sudeste	156	  5.200,00 	  811.200,00 		47	55	31	23	Loja B	Bruna
+2023	2	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sul	427	  6.750,00 	  2.882.250,00 		128	149	85	64	Loja B	Marina
+2023	2	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Norte	363	  2.300,00 	  834.900,00 		109	127	73	54	Loja B	Lucas
+2023	2	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Nordeste	866	  9.500,00 	  8.227.000,00 		260	303	173	130	Loja B	Bruna
+2023	3	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Centro-Oeste	704	  5.200,00 	  3.660.800,00 		211	246	141	106	Loja A	Carlos
+2023	3	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sudeste	929	  6.750,00 	  6.270.750,00 		279	325	186	139	Loja C	Isabela
+2023	3	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sul	397	  2.300,00 	  913.100,00 		119	139	79	60	Loja B	Marina
+2023	3	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Norte	440	  9.500,00 	  4.180.000,00 		132	154	88	66	Loja A	Fernanda
+2023	4	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Nordeste	646	  5.200,00 	  3.359.200,00 		194	226	129	97	Loja B	Marina
+2023	4	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Centro-Oeste	379	  6.750,00 	  2.558.250,00 		114	133	76	57	Loja B	Marina
+2023	4	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sudeste	826	  2.300,00 	  1.899.800,00 		248	289	165	124	Loja A	Rafael
+2023	4	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sul	620	  9.500,00 	  5.890.000,00 		186	217	124	93	Loja C	Paulo
+2023	5	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Norte	176	  5.200,00 	  915.200,00 		53	62	35	26	Loja C	Isabela
+2023	5	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Nordeste	713	  6.750,00 	  4.812.750,00 		214	250	143	107	Loja A	Fernanda
+2023	5	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	736	  2.300,00 	  1.692.800,00 		221	258	147	110	Loja C	Jéssica
+2023	5	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sudeste	788	  9.500,00 	  7.486.000,00 		236	276	158	118	Loja A	Fernanda
+2023	6	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Sul	240	  5.200,00 	  1.248.000,00 		72	84	48	36	Loja A	Fernanda
+2023	6	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Norte	897	  6.750,00 	  6.054.750,00 		269	314	179	135	Loja A	Fernanda
+2023	6	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Nordeste	861	  2.300,00 	  1.980.300,00 		258	301	172	129	Loja C	Paulo
+2023	6	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Centro-Oeste	562	  9.500,00 	  5.339.000,00 		169	197	112	84	Loja A	Carlos
+2023	7	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Sudeste	611	  5.200,00 	  3.177.200,00 		183	214	122	92	Loja B	Lucas
+2023	7	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sul	957	  6.750,00 	  6.459.750,00 		287	335	191	144	Loja C	Jéssica
+2023	7	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Norte	534	  2.300,00 	  1.228.200,00 		160	187	107	80	Loja C	Paulo
+2023	7	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Nordeste	538	  9.500,00 	  5.111.000,00 		161	188	108	81	Loja C	Jéssica
+2023	8	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Centro-Oeste	791	  5.200,00 	  4.113.200,00 		237	277	158	119	Loja C	Isabela
+2023	8	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sudeste	542	  6.750,00 	  3.658.500,00 		163	190	108	81	Loja B	Lucas
+2023	8	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sul	315	  2.300,00 	  724.500,00 		95	110	63	47	Loja C	Paulo
+2023	8	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Norte	188	  9.500,00 	  1.786.000,00 		56	66	38	28	Loja C	Isabela
+2023	9	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Nordeste	107	  5.200,00 	  556.400,00 		32	37	21	16	Loja A	Carlos
+2023	9	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	867	  6.750,00 	  5.852.250,00 		260	303	173	130	Loja C	Isabela
+2023	9	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sudeste	512	  2.300,00 	  1.177.600,00 		154	179	102	77	Loja B	Lucas
+2023	9	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sul	610	  9.500,00 	  5.795.000,00 		183	214	122	92	Loja B	Marina
+2023	10	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Norte	278	  5.200,00 	  1.445.600,00 		83	97	56	42	Loja B	Marina
+2023	10	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Nordeste	130	  6.750,00 	  877.500,00 		39	46	26	20	Loja B	Marina
+2023	10	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Centro-Oeste	259	  2.300,00 	  595.700,00 		78	91	52	39	Loja C	Isabela
+2023	10	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sudeste	942	  9.500,00 	  8.949.000,00 		283	330	188	141	Loja C	Isabela
+2023	11	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sul	497	  5.200,00 	  2.584.400,00 	Black Friday	149	174	99	75	Loja B	Bruna
+2023	11	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Norte	110	  6.750,00 	  742.500,00 	Black Friday	33	39	22	17	Loja B	Marina
+2023	11	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Nordeste	235	  2.300,00 	  540.500,00 	Black Friday	71	82	47	35	Loja C	Isabela
+2023	11	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Centro-Oeste	893	  9.500,00 	  8.483.500,00 	Black Friday	268	313	179	134	Loja B	Lucas
+2023	12	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sudeste	369	  5.200,00 	  1.918.800,00 		111	129	74	55	Loja A	Carlos
+2023	12	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sul	396	  6.750,00 	  2.673.000,00 		119	139	79	59	Loja B	Bruna
+2023	12	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Norte	581	  2.300,00 	  1.336.300,00 		174	203	116	87	Loja B	Marina
+2023	12	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Nordeste	909	  9.500,00 	  8.635.500,00 		273	318	182	136	Loja A	Rafael
+2024	1	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Centro-Oeste	106	  5.200,00 	  551.200,00 		32	37	21	16	Loja A	Fernanda
+2024	1	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sudeste	900	  6.750,00 	  6.075.000,00 		270	315	180	135	Loja C	Jéssica
+2024	1	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sul	898	  2.300,00 	  2.065.400,00 		269	314	180	135	Loja C	Isabela
+2024	1	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Norte	528	  9.500,00 	  5.016.000,00 		158	185	106	79	Loja A	Carlos
+2024	2	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Nordeste	567	  5.200,00 	  2.948.400,00 		170	198	113	85	Loja A	Carlos
+2024	2	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Centro-Oeste	652	  6.750,00 	  4.401.000,00 		196	228	130	98	Loja C	Paulo
+2024	2	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sudeste	996	  2.300,00 	  2.290.800,00 		299	349	199	149	Loja B	Bruna
+2024	2	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sul	824	  9.500,00 	  7.828.000,00 		247	288	165	124	Loja A	Fernanda
+2024	3	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Norte	903	  5.200,00 	  4.695.600,00 		271	316	181	135	Loja C	Paulo
+2024	3	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Nordeste	136	  6.750,00 	  918.000,00 		41	48	27	20	Loja B	Marina
+2024	3	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	671	  2.300,00 	  1.543.300,00 		201	235	134	101	Loja A	Fernanda
+2024	3	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sudeste	261	  9.500,00 	  2.479.500,00 		78	91	52	39	Loja B	Marina
+2024	4	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sul	737	  5.200,00 	  3.832.400,00 	Aniversário da loja	221	258	147	111	Loja C	Isabela
+2024	4	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Norte	188	  6.750,00 	  1.269.000,00 	Aniversário da loja	56	66	38	28	Loja A	Fernanda
+2024	4	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Nordeste	873	  2.300,00 	  2.007.900,00 	Aniversário da loja	262	306	175	131	Loja B	Lucas
+2024	4	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Centro-Oeste	595	  9.500,00 	  5.652.500,00 	Aniversário da loja	179	208	119	89	Loja A	Fernanda
+2024	5	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Sudeste	884	  5.200,00 	  4.596.800,00 		265	309	177	133	Loja B	Lucas
+2024	5	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Sul	978	  6.750,00 	  6.601.500,00 		293	342	196	147	Loja C	Jéssica
+2024	5	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Norte	419	  2.300,00 	  963.700,00 		126	147	84	63	Loja C	Paulo
+2024	5	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Nordeste	622	  9.500,00 	  5.909.000,00 		187	218	124	93	Loja A	Rafael
+2024	6	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Centro-Oeste	727	  5.200,00 	  3.780.400,00 		218	254	145	109	Loja B	Marina
+2024	6	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sudeste	362	  6.750,00 	  2.443.500,00 		109	127	72	54	Loja A	Rafael
+2024	6	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sul	996	  2.300,00 	  2.290.800,00 		299	349	199	149	Loja A	Fernanda
+2024	6	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Norte	492	  9.500,00 	  4.674.000,00 		148	172	98	74	Loja B	Marina
+2024	7	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Nordeste	485	  5.200,00 	  2.522.000,00 		146	170	97	73	Loja B	Marina
+2024	7	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	582	  6.750,00 	  3.928.500,00 		175	204	116	87	Loja B	Bruna
+2024	7	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Sudeste	885	  2.300,00 	  2.035.500,00 		266	310	177	133	Loja C	Jéssica
+2024	7	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Sul	967	  9.500,00 	  9.186.500,00 		290	338	193	145	Loja A	Carlos
+2024	8	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Norte	921	  5.200,00 	  4.789.200,00 		276	322	184	138	Loja A	Rafael
+2024	8	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Nordeste	598	  6.750,00 	  4.036.500,00 		179	209	120	90	Loja C	Jéssica
+2024	8	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	568	  2.300,00 	  1.306.400,00 		170	199	114	85	Loja B	Bruna
+2024	8	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sudeste	166	  9.500,00 	  1.577.000,00 		50	58	33	25	Loja C	Isabela
+2024	9	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sul	177	  5.200,00 	  920.400,00 		53	62	35	27	Loja C	Isabela
+2024	9	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Norte	745	  6.750,00 	  5.028.750,00 		224	261	149	112	Loja C	Jéssica
+2024	9	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Marketplace	Nordeste	575	  2.300,00 	  1.322.500,00 		173	201	115	86	Loja A	Rafael
+2024	9	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Centro-Oeste	539	  9.500,00 	  5.120.500,00 		162	189	108	81	Loja C	Isabela
+2024	10	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Site	Sudeste	450	  5.200,00 	  2.340.000,00 		135	158	90	68	Loja A	Fernanda
+2024	10	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sul	820	  6.750,00 	  5.535.000,00 		246	287	164	123	Loja A	Carlos
+2024	10	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Norte	289	  2.300,00 	  664.700,00 		87	101	58	43	Loja A	Carlos
+2024	10	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Nordeste	884	  9.500,00 	  8.398.000,00 		265	309	177	133	Loja B	Lucas
+2024	11	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Centro-Oeste	310	  5.200,00 	  1.612.000,00 		93	109	62	47	Loja A	Rafael
+2024	11	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Site	Sudeste	894	  6.750,00 	  6.034.500,00 		268	313	179	134	Loja A	Rafael
+2024	11	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sul	449	  2.300,00 	  1.032.700,00 		135	157	90	67	Loja B	Bruna
+2024	11	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Marketplace	Norte	812	  9.500,00 	  7.714.000,00 		244	284	162	122	Loja A	Rafael
+2024	12	EliteBook 840 G6 (Intel i5, 8GB, 256GB SSD)	Marketplace	Nordeste	356	  5.200,00 	  1.851.200,00 		107	125	71	53	Loja C	Paulo
+2024	12	EliteBook 840 G8 (Intel i5, 16GB, 512GB SSD)	Marketplace	Centro-Oeste	959	  6.750,00 	  6.473.250,00 		288	336	192	144	Loja C	Isabela
+2024	12	EliteBook 640 G9 (Intel i7, 16GB, 512GB SSD)	Site	Sudeste	540	  2.300,00 	  1.242.000,00 		162	189	108	81	Loja A	Rafael
+2024	12	EliteBook x360 1040 G11 (Intel i7, 32GB, 1TB SSD)	Site	Sul	354	  9.500,00 	  3.363.000,00 		106	124	71	53	Loja B	Marina
