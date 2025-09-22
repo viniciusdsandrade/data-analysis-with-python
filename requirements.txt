@@ -1,0 +1,9 @@
+kaleido
+openpyxl
+pyarrow
+ipython
+plotly
+numpy
+pathlib
+pandas
+matplotlib
